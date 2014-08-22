@@ -1,0 +1,9 @@
+[user]
+	name = Dave Michael A. Odsigue
+	email = dmaodsigue@chikka.com
+[alias]
+    d = difftool --tool=vimdiff --no-prompt
+    s = status
+    new = !sh -c 'git log -n 5 --reverse --no-merges'
+[core]
+	editor = vim
